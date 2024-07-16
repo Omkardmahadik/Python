@@ -1,6 +1,6 @@
 # Python
 
-Day1: Basic python programs 
+**Day1: Basic python programs **
 sumof2no , kmtomtr , avgof3no etc...
 
 link1: 
