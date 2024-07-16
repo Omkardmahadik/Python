@@ -17,8 +17,11 @@ link2->logic: https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/Const
 
 1 arithmetic:
 
-link: https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/1_Arithmetic.py
+link: 
+https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/1_Arithmetic.py
 
-2 relational: https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/2_Relational.py
+2 relational: 
+https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/2_Relational.py
 
-3 assignment: https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/3_Assignmentop.py
+3 assignment: 
+https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/3_Assignmentop.py
