@@ -7,6 +7,7 @@ https://github.com/Omkardmahadik/Python/blob/main/Basic/Day1/Basicpro%20(2).py
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day1/Basicpro%20(2).py
 
 <Day2: operators>
+
 0 constant: link1->userinput:
 
  https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/0_Constant.py
