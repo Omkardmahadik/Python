@@ -19,11 +19,12 @@ https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/Constantlogic.py
 
 1 arithmetic:
 
-link: 
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/1_Arithmetic.py
 
 2 relational: 
+
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/2_Relational.py
 
-3 assignment: 
+3 assignment:
+
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day2/3_Assignmentop.py
