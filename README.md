@@ -1,6 +1,6 @@
 # Python
 
-Day1: Basic python programs 
+<Day1: Basic python programs>
 
 links1&2: 
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day1/Basicpro%20(2).py
