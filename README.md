@@ -1,12 +1,10 @@
 # Python
 
-**Day1: Basic python programs **
-sumof2no , kmtomtr , avgof3no etc...
+Day1: Basic python programs 
 
-link1: 
+links1&2: 
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day1/Basicpro%20(2).py
 
-link2: 
 https://github.com/Omkardmahadik/Python/blob/main/Basic/Day1/Basicpro%20(2).py
 
 Day2: operators
